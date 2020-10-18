@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-09"
   date_end = "Present"
   description = """
-  Analyze large-scale text data with Natural Language Processing and Machine Learning algorithms to explore the reciprocity of writing reviews in the online FanFiction community.
+  Analyze large-scale text data with Natural Language Processing (NLP) and Machine Learning (ML) algorithms to explore the reciprocity of writing reviews in the online FanFiction community.
   """
 
 [[experience]]
