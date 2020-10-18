@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ruoxi (Anna) Shang
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Human Centered Design & Engineering (HCDE) Department
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Washington
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest lies in the intersection of Data Science and Human-centered Approach. I apply Machine Learning (ML) and Natural Language Processing (NLP) algorithms to solve human-centered problems. Currently I'm working with Dr. Cecilia Aragon in her Human-centered Data Science Lab on large-scale text data analysis, exploring ways to better understand Distributed Learning in online FanFiction community. 
 
 interests:
 - Artificial Intelligence
