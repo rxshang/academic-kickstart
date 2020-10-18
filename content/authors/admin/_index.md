@@ -20,22 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest lies in the intersection of Data Science and Human-centered Approach. I apply Machine Learning (ML) and Natural Language Processing (NLP) algorithms to solve human-centered problems. Currently I'm working with Dr. Cecilia Aragon in her Human-centered Data Science Lab on large-scale text data analysis, exploring ways to better understand Distributed Learning in online FanFiction community. 
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Human-centered Data Science
+# - Computational Linguistics
+# - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Human Centered Design & Engineering
+    institution: University of Washington
+    year: Expected 2025
+  - course: BA in Applied Mathematics & BA in Statistics
+    institution: University of California, Berkeley
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interest lies in the intersection of Data Science and Human-centered Approach. I apply Machine Learning (ML) and Natural Language Processing (NLP) algorithms to solve human-centered problems. Currently I'm working with Dr. Cecilia Aragon in her Human-centered Data Science Lab on large-scale text data analysis, exploring ways to better understand Distributed Learning in online FanFiction community. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
