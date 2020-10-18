@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "rxshang@uw.edu".
+  link: 'rxshang@uw.edu'  # For a direct email link, use "rxshang@uw.edu".
 # - icon: twitter
   # icon_pack: fab
   # link: https://twitter.com/GeorgeCushen
